@@ -158,3 +158,5 @@ for epoch in range(N_EPOCHS):
   valid_loss, valid_acc = evaluate(model, valid_iterator, criterion)
   
   print(f'| Epoch: {epoch+1:02} | Train Loss:{train_loss:.3f}  | Train Accuracy: {train_acc*100:.2f}% | Val.Loss: {valid_loss:.3f} | Val. Acc: {valid_acc*100:.25}% |')
+
+    

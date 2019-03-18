@@ -182,3 +182,5 @@ def predict_class(sentence, min_len=4):
     preds = model(tensor)
     max_preds = preds.argmax(dim=1)
     return max_preds.item()
+
+

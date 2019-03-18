@@ -1,5 +1,4 @@
 # Classification of textual responses in dialogues 
-## (in progress)
 
 Paper under review: the first part of this project (corpus study, linguistic frame establishment, SVM test) has been submitted
 

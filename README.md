@@ -2,7 +2,7 @@
 
 Paper under review: the first part of this project (corpus study, linguistic frame establishment, SVM test) has been submitted
 
-*Jonathan Ginzburg, Pawel Lupkowski, Kexin Ren, Chuyuan Li. Characterizing the Response Space of Questions. Submitted to 13th International Conference on Computational Semantics (IWCS). Under review.
+_Jonathan Ginzburg, Pawel Lupkowski, Kexin Ren, Chuyuan Li. Characterizing the Response Space of Questions. Submitted to 13th International Conference on Computational Semantics (IWCS). Under review._
 
 ## Models
 * CNN model
